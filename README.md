@@ -1,5 +1,7 @@
 # bob_flightschool
  ESX Flight School Version 1.0
+ 
+ IT IS VERSION 1.0 IT CAN CONTAIN BUGS AND IT IS NOT FINISHED!
 
 A Flight School added to the game.
 
